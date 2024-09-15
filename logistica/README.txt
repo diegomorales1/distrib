@@ -1,0 +1,1 @@
+para ejecutar el .proto colocar en consolta "protoc --go_out=. --go-grpc_out=. logistica/logistica.proto"
