@@ -514,7 +514,7 @@ func main() {
 	server := &Server{siguienteID: 0}
 	server.InitCaravanas()
 
-	lis, err := net.Listen("tcp", "10.35.168.48:50051")
+	lis, err := net.Listen("tcp", "0.0.0.0:50051")
 	if err != nil {
 		log.Fatalf("Error al iniciar el servidor: %v", err)
 	}
