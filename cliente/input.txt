@@ -1,0 +1,5 @@
+Ostronitas,Pedro,Destino1,Comida,200
+Normal,Juanito,Destino3,Municion,300
+Prioritario,Pipe,Destino5,Libros,500
+Ostronitas,Joaquin,Destino2,Medicamentos,300
+Normal,Nicolas,Destino8,Comida,200
