@@ -1,0 +1,5 @@
+ID Paquete: 1, Envios Completados: true, Intentos de Entrega: 2, No Entregado: false, Ganancia: 100
+ID Paquete: 2, Envios Completados: true, Intentos de Entrega: 2, No Entregado: false, Ganancia: 200
+ID Paquete: 3, Envios Completados: true, Intentos de Entrega: 1, No Entregado: false, Ganancia: 650
+ID Paquete: 4, Envios Completados: true, Intentos de Entrega: 1, No Entregado: false, Ganancia: 300
+ID Paquete: 5, Envios Completados: true, Intentos de Entrega: 1, No Entregado: false, Ganancia: 200
