@@ -147,7 +147,7 @@ func connectToRabbitMQ() (*amqp.Connection, error) {
 	var conn *amqp.Connection
 	var err error
 	for i := 0; i < 5; i++ { // Intentar 5 veces con un tiempo de espera
-		conn, err = amqp.Dial("amqp://guest:guest@10.35.168.48:5672/")
+		conn, err = amqp.Dial("amqp://guest:guest@10.35.168.48:5673/")
 		if err == nil {
 			return conn, nil
 		}
